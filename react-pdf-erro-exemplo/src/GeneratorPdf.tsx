@@ -25,7 +25,7 @@ const styles = StyleSheet.create({
   },
 });
 
-const ExtratoPorProdutoLocalEstoquePDF: React.FC<
+const GeneratorPdf: React.FC<
   any
 > = ({ dados }) => {
   return (
@@ -344,4 +344,4 @@ const ExtratoPorProdutoLocalEstoquePDF: React.FC<
   );
 };
 
-export default ExtratoPorProdutoLocalEstoquePDF;
+export default GeneratorPdf;

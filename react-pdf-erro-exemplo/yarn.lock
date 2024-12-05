@@ -1681,7 +1681,7 @@
     parse-svg-path "^0.1.2"
     svg-arc-to-cubic-bezier "^3.2.0"
 
-"@react-pdf/renderer@^4.0.0":
+"@react-pdf/renderer@^4.1.5":
   version "4.1.5"
   resolved "https://registry.yarnpkg.com/@react-pdf/renderer/-/renderer-4.1.5.tgz#46a0ca69e2b1db39f34b86cced0122370100928b"
   integrity sha512-SGaaVloGtBNCsgu7TrS9C8QrcMegqEzgaw2Y/DnpZJtru13WgBs+auM9ana58ytQ7PIMB1RYJtFVvYhM1hf/+w==
