@@ -1,0 +1,3462 @@
+{
+  "cabecalho": {
+    "dataHoraAtual": "2024-12-05T13:42:50.108Z",
+    "filtroData": "05/12/2018 23:59",
+    "filtroProduto": "L1.1.T - GLICERINA BI-DESTILADA VEGETAL USP - 1 LT",
+    "filtroSomenteProdutoComSaldo": true,
+    "nomeEmpresa": "CASA DOS QUIMICOS COMERCIO DE PRODUTOS QUIMICOS LTDA",
+    "possuiFiltro": true,
+    "tituloRelatorio": "Extrato de Estoque por Produto e Local de Estoque"
+  },
+  "listaDados": [
+    {
+      "tipo": "Próprio em poder próprio",
+      "produto": {
+        "codigo": "L1.1.T",
+        "descricao": "GLICERINA BI-DESTILADA VEGETAL USP - 1 LT",
+        "idProduto": "1da10b40-b638-4f5f-809f-ef382556e876"
+      },
+      "pessoa": {
+        "codigo": null,
+        "id": null,
+        "nomeRazaoSocial": null
+      },
+      "localEstoque": {
+        "descricao": "GERAL",
+        "idLocalEstoque": "06f5ba58-8937-4779-9cea-f44390268554"
+      },
+      "listaMovimentos": [
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        },
+        {
+          "dataMovimento": "2018-12-03T07:47:19-03:00",
+          "historico": "NF Saída",
+          "numeroDocumento": "1607",
+          "quantidade": "-1,0000",
+          "saldo": "2,0000"
+        }
+      ]
+    }
+  ]
+}
