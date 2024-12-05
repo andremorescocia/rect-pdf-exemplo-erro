@@ -32,16 +32,6 @@ const calcularAlturaItem = (movimento: any): number => {
   return alturaBase * linhasDescricao; // Altura total do item
 };
 
-const calcularAlturaLinhaItem = (
-  largura: number,
-  descricao: string
-): number => {
-  const alturaBase = 15;
-
-  const linhasDescricao = Math.ceil(descricao.length / largura);
-  return alturaBase * linhasDescricao;
-};
-
 const adicionarPagina = (
   paginas: any[],
   movimentosPagina: any[],
